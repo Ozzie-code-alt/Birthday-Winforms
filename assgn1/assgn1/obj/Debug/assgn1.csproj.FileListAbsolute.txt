@@ -1,0 +1,11 @@
+C:\Users\justi\Desktop\assgn1\assgn1\bin\Debug\assgn1.exe.config
+C:\Users\justi\Desktop\assgn1\assgn1\bin\Debug\assgn1.exe
+C:\Users\justi\Desktop\assgn1\assgn1\bin\Debug\assgn1.pdb
+C:\Users\justi\Desktop\assgn1\assgn1\obj\Debug\assgn1.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\assgn1\assgn1\obj\Debug\assgn1.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Desktop\assgn1\assgn1\obj\Debug\assgn1.Form1.resources
+C:\Users\justi\Desktop\assgn1\assgn1\obj\Debug\assgn1.Properties.Resources.resources
+C:\Users\justi\Desktop\assgn1\assgn1\obj\Debug\assgn1.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\assgn1\assgn1\obj\Debug\assgn1.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\assgn1\assgn1\obj\Debug\assgn1.exe
+C:\Users\justi\Desktop\assgn1\assgn1\obj\Debug\assgn1.pdb
